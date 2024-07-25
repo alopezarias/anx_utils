@@ -1,0 +1,74 @@
+[
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "images",
+        "compress": false
+    },
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "videos",
+        "compress": false
+    },
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "music",
+        "compress": false
+    },
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "documents",
+        "compress": false
+    },
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "installers",
+        "compress": false
+    },
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "ebooks",
+        "compress": false
+    },
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "compressed",
+        "compress": false
+    },
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "images of disc",
+        "compress": false
+    },
+    {
+        "extensions": [],
+        "children": [
+
+        ],
+        "name": "others",
+        "compress": false
+    }
+]
